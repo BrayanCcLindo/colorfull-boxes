@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Title
+
+List of dynamic
+
+## Description
+
+This project was based on the resolution of a challenge by (https://jsfiddle.net/mladylukas/9qmusLok/) where I present you a list with multiple colors where I had the challenge of adding certain functionalities such as, selecting them, selecting them, adding styles and more.
+
+## Installation
+
+To start you only have to clone the repository (git clone), install its dependencies (npm i) and run the application (npm start).
+
 ## Available Scripts
 
 In the project directory, you can run:
